@@ -14,5 +14,4 @@ This project uses Warranty Keeper (https://warranty-keeper.com/) as a base with 
 WarrantyTracker.fig
 
 <h2>Figma Screenshots</h2>
-![WarrantyTrackerMainScreen](https://github.com/user-attachments/assets/b3b85611-25ef-4ddf-8a41-cafda895efcb)
-![WarrantyTrackerAddNewItem](https://github.com/user-attachments/assets/db20571e-613b-4016-a295-7983f706b287)
+![ScreenShot](FigmaScreenshots/DirectoryWarrantyTracker.png)
