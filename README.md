@@ -11,7 +11,12 @@ This project uses Warranty Keeper (https://warranty-keeper.com/) as a base with 
 + Future Concepts: Personalizable Item Categories, Add Categories Page, Settings Page, Video of Page navigation within Figma
 
 <h2>File Breakdown</h2>
-WarrantyTracker.fig
+<p>
+<img src="FigmaScreenshots/DirectoryWarrantyTracker.png" />
+</p>
 
 <h2>Figma Screenshots</h2>
-![ScreenShot](FigmaScreenshots/DirectoryWarrantyTracker.png)
+<p>
+<img src="FigmaScreenshots/WarrantyTrackerMainScreen.png" />
+<img src="FigmaScreenshots/WarrantyTrackerAddNewItem.png" />
+</p>
